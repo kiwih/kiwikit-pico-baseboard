@@ -12,10 +12,11 @@ Features include:
 
 ## Usage
 
-You'll need to use this project in tandem with my `kiwih_kicad` Kicad repository.
+You can download the latest version of the gerbers for manufacture directly from this repository.
 
-https://github.com/kiwih/kiwih_kicad
+Alternatively, if you want to change any settings / etc, you can download this repository and open it with Kicad.
+If so, you'll use this project in tandem with my `kiwih_kicad` Kicad repository: https://github.com/kiwih/kiwih_kicad
 
 ## Further documentation
 
-I wrote a blog post to go with this! You can find it [here](https://01001000.xyz/2021-02-13-Raspberry-Pi-Pico-dev-board-Kiwikit/)
+I wrote a blog post to go with this! You can find it [here](https://01001000.xyz/2021-02-13-Raspberry-Pi-Pico-dev-board-Kiwikit/).
