@@ -12,7 +12,8 @@ Features include:
 
 ## Usage
 
-You can download the latest version of the gerbers for manufacture directly from this repository.
+The latest schematic in PDF format, and the latest version of the gerbers for manufacture, are located directly 
+in the root folder of this repository.
 
 Alternatively, if you want to change any settings / etc, you can download this repository and open it with Kicad.
 If so, you'll use this project in tandem with my `kiwih_kicad` Kicad repository: https://github.com/kiwih/kiwih_kicad
