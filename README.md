@@ -2,6 +2,8 @@
 
 This board provides an easy-to-solder all-throughole 10cm x 10cm 2-layer board which is used in conjunction with a Raspberry Pi Pico for basic, fun experimentation!
 
+![render](https://github.com/kiwih/kiwih.github.io/raw/master/assets/img/pico-kiwikit/render.png)
+
 Features include:
 * Three general purpose buttons and a reset button,
 * Two general purpose LEDs and a power LED,
